@@ -30,15 +30,16 @@ segmentator.jar 12 1 1
 '/home_nfs/erodrigues/p3/1/'
 '/home_nfs/erodrigues/p/12_5_1_1_1_reduced.arff' 
 
+
+there are 5 arguments. The -Xmx15g means we are giving 15 gigs of memory to the JVM to work on. The segmentator.jar can be found in the bin folder. The arguments are:<br>
+1) 12<br>
+2) 1<br>
+3) 1<br>
+4) '/home_nfs/erodrigues/p3/1/'<br>
+5) '/home_nfs/erodrigues/p/12_5_1_1_1_reduced.arff'<br>
 <br>
 
-there are 5 arguments. The -Xmx15g means we are giving 15 gigs of memory to the JVM to work on. The segmentator.jar can be found in the bin folder. The arguments are:
-1) 12
-2) 1
-3) 1
-4) '/home_nfs/erodrigues/p3/1/'
-5) '/home_nfs/erodrigues/p/12_5_1_1_1_reduced.arff'
-<br>
+<b>Dataset and Model</b><br>
 
 A datasets for training and models, can be found at:<br>
 http://www.mediafire.com/file/2gbd9wfc893h6d4/datasets_and_models.zip
