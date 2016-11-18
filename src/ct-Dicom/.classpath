@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7"/>
+	<classpathentry kind="lib" path="C:/Users/Érick/Documents/Aura/CT/bibliotecas/slf4j-1.7.6/slf4j-api-1.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Érick/Documents/Aura/CT/bibliotecas/slf4j-1.7.6/slf4j-simple-1.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Érick/Documents/Aura/CT/bibliotecas/sax.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Érick/Documents/Aura/CT/bibliotecas/sax2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Érick/Documents/Aura/CT/bibliotecas/dcm/dcm4che-2.0.28/lib/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Érick/Documents/Aura/CT/bibliotecas/dcm/dcm4che-2.0.28/lib/dcm4che-base64-2.0.28.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Érick/Documents/Aura/CT/bibliotecas/dcm/dcm4che-2.0.28/lib/dcm4che-core-2.0.28.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Érick/Documents/Aura/CT/bibliotecas/dcm/dcm4che-2.0.28/lib/dcm4che-tool-dcm2xml-2.0.28.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Érick/Documents/Aura/CT/bibliotecas/weka.jar" sourcepath="C:/Users/Érick/Documents/Aura/CT/bibliotecas/weka-src.jar"/>
+	<classpathentry kind="lib" path="/ct-DataMining/src/datamining"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/ct-DataMining"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/ct-Registration"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
