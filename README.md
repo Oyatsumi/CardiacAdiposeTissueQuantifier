@@ -42,7 +42,7 @@ there are 5 arguments. The -Xmx15g means we are giving 15 gigs of memory to the 
 
 <b>Dataset and Model</b><br>
 
-A datasets for training and models, can be found at:<br>
+A dataset for training and models can be found at:<br>
 http://www.mediafire.com/file/2gbd9wfc893h6d4/datasets_and_models.zip <br>
 Mirror link: https://drive.google.com/file/d/0B8feZmt0ma32ZV9wOUF6RWNKVGc/view?usp=sharing
 
