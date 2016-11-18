@@ -1,7 +1,7 @@
 # CardiacAdiposeTissueQuantifier
 An autonomous quantifier for the mediastinal and epicardial fats.
 
-<br><br>
+<br>
 
 <b>Instructions</b>
 
@@ -46,5 +46,5 @@ http://www.mediafire.com/file/2gbd9wfc893h6d4/datasets_and_models.zip
 
 
 <br><br>
-<b>Previous works:</b>
+<b>Previous work:</b><br>
 http://www.sciencedirect.com/science/article/pii/S0169260715002448
