@@ -32,6 +32,7 @@ segmentator.jar 12 1 1
 
 
 there are 5 arguments. The -Xmx15g means we are giving 15 gigs of memory to the JVM to work on. The segmentator.jar can be found in the bin folder. The arguments are:<br>
+
 1) 12<br>
 2) 1<br>
 3) 1<br>
