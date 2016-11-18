@@ -23,7 +23,7 @@ The program takes 5 arguments, which are:
 <br>
 <b>Practical Example</b>
 
-So, for instance, let's suppose we want to process the patients from folder 1, located in /home_nfs/erodrigues/p3/, then:
+So, for instance, let's suppose we want to process the patients from folder 1, located in /home_nfs/erodrigues/p3/, then we should run the following command in terminal or windows console:
 
 java -jar -Xmx15g 
 segmentator.jar 12 1 1
