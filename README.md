@@ -49,3 +49,8 @@ http://www.mediafire.com/file/2gbd9wfc893h6d4/datasets_and_models.zip
 <br>
 <b>Previous work:</b><br>
 http://www.sciencedirect.com/science/article/pii/S0169260715002448
+Mirror link: https://drive.google.com/file/d/0B8feZmt0ma32ZV9wOUF6RWNKVGc/view?usp=sharing
+
+<br>
+For ground truth of the patients used on the trained, please check:
+http://visual.ic.uff.br/en/cardio/ctfat/index.php
