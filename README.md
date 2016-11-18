@@ -52,5 +52,5 @@ http://www.sciencedirect.com/science/article/pii/S0169260715002448
 Mirror link: https://drive.google.com/file/d/0B8feZmt0ma32ZV9wOUF6RWNKVGc/view?usp=sharing
 
 <br>
-For the ground truth of the patients used on the trained, please check:
+For the ground truth of the patients used on the training, please check:
 http://visual.ic.uff.br/en/cardio/ctfat/index.php
