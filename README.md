@@ -20,7 +20,7 @@ The program takes 5 arguments, which are:
 4) The patients folder. The program takes the path of a folder which contains as many other folders as wanted. These included folders are the folders of each patient, where inside each one there are the Dicom files of the corresponding patient.<br>
 5) The path to the database (.arff) for the algorithm to train on or to the already trained model. If you have the .attHeader or .model files keep them on the same folder as of your .arff file.<br>
 
-<br><br>
+<br>
 <b>Practical Example</b>
 
 So, for instance, let's suppose we want to process the patients from folder 1, located in /home_nfs/erodrigues/p3/, then:
@@ -30,7 +30,7 @@ segmentator.jar 12 1 1
 '/home_nfs/erodrigues/p3/1/'
 '/home_nfs/erodrigues/p/12_5_1_1_1_reduced.arff' 
 
-<br><br>
+<br>
 
 there are 5 arguments. The -Xmx15g means we are giving 15 gigs of memory to the JVM to work on. The segmentator.jar can be found in the bin folder. The arguments are:
 1) 12
@@ -38,13 +38,12 @@ there are 5 arguments. The -Xmx15g means we are giving 15 gigs of memory to the 
 3) 1
 4) '/home_nfs/erodrigues/p3/1/'
 5) '/home_nfs/erodrigues/p/12_5_1_1_1_reduced.arff'
-
-<br><br>
+<br>
 
 A datasets for training and models, can be found at:<br>
 http://www.mediafire.com/file/2gbd9wfc893h6d4/datasets_and_models.zip
 
 
-<br><br>
+<br>
 <b>Previous work:</b><br>
 http://www.sciencedirect.com/science/article/pii/S0169260715002448
