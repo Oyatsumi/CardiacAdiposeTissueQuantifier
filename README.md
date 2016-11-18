@@ -5,10 +5,10 @@ An autonomous quantifier for the mediastinal and epicardial fats.
 
 <b>Instructions</b>
 
-The Main class in ct-Segmentation folder should be the one to be compiled. <br>
-All the remaining 3 projects must be included in this project.<br>
+The Main class in ct-Segmentation folder (which is a subfolder of folder src) should be the one to be compiled. <br>
+All the remaining 3 project folders must be included in the "ct-Segmentation" project.<br>
 
-There is a compiled version of this Main.class of ct-Segmentation in the bin folder. <br>
+There is a compiled version of this Main.java (which belongs to the ct-Segmentation project) in the bin folder. <br>
 
 <b>Usage</b>
 
