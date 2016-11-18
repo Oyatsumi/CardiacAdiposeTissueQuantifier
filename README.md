@@ -18,7 +18,7 @@ The program takes 5 arguments, which are:
 2) How many pixels the program should "jump", the standard would be 1 for no pixel jumping.<br>
 3) How many slices the program should "jump", the standard would also be 1.<br>
 4) The patients folder. The program takes the path of a folder which contains as many other folders as wanted. These included folders are the folders of each patient, where inside each one there are the Dicom files of the corresponding patient.<br>
-5) The folder to the database for the algorithm to train on or to the already trained model.<br>
+5) The path to the database (.arff) for the algorithm to train on or to the already trained model. If you have the .attHeader or .model files keep them on the same folder as of your .arff file.<br>
 
 <br><br>
 <b>Practical Example</b>
@@ -32,7 +32,7 @@ segmentator.jar 12 1 1
 
 <br><br>
 
-there are 5 arguments. The -Xmx15g means we are given 15 gigs of memory to the JVM to work on. The segmentator.jar can be found in the bin folder. The arguments are:
+there are 5 arguments. The -Xmx15g means we are giving 15 gigs of memory to the JVM to work on. The segmentator.jar can be found in the bin folder. The arguments are:
 1) 12
 2) 1
 3) 1
@@ -41,4 +41,10 @@ there are 5 arguments. The -Xmx15g means we are given 15 gigs of memory to the J
 
 <br><br>
 
-The datasets for training and models, can be found at:
+A datasets for training and models, can be found at:<br>
+http://www.mediafire.com/file/2gbd9wfc893h6d4/datasets_and_models.zip
+
+
+<br><br>
+<b>Previous works:</b>
+http://www.sciencedirect.com/science/article/pii/S0169260715002448
