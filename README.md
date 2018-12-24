@@ -1,5 +1,5 @@
 # CardiacAdiposeTissueQuantifier
-An autonomous quantifier for the mediastinal and epicardial fats.
+An autonomous segmentator and quantifier for the mediastinal and epicardial fats.
 
 <br>
 
